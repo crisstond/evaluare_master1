@@ -1,1 +1,1 @@
-print("Salut din feature A")
+print("Salut din feature B")
