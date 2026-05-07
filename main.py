@@ -1,2 +1,2 @@
 def salut():
-    return"Salut din feature A"
+    return"Salut din feature Aa"
