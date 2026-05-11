@@ -1,0 +1,15 @@
+# Rezolvare conflict
+
+## Motiv
+Feature-a si feature-b au modificat aceeasi functie in main.py pe aceleasi linii.
+
+## Decizie
+Am pastrat ambele functionalitati:
+- print('Salut din feature B') din feature-b
+- functia salut() din feature-a
+
+## Rezultat final in main.py
+print("Salut din feature B")
+
+def salut():
+    return "Salut din feature Aa"
