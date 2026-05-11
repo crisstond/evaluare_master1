@@ -1,1 +1,2 @@
-print("Salut din feature A")
+def salut():
+    return"Salut din feature Aa"
